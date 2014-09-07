@@ -2,6 +2,8 @@
 title: Runaway Dunaway
 email: jessica_barstis@bostonconservatory.edu
 description: "I like sparkles. And unicorns. And probably you."
+url: "http://mavant.com"
+baseurl: "jdb"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
